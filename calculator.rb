@@ -10,6 +10,6 @@ puts difference
 product = first_number * second_number
 puts product
 
-quotient = first_number % second_number
+quotient = second_number % second_number
 puts quotient
 
